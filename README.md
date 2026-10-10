@@ -38,16 +38,16 @@ Agent shows enhanced ability to balance during training. The average evaluation 
 
 ### Key Features
 
-Double Deep Q-Network implementation
-Policy and target neural networks
-Experiential Replay for training stability.
-Epsilon-greedy exploration strategy
-Training reward and moving-average visualization
-Training loss analysis
-Exploration rate monitoring
-Periodic policy evaluation
-Best-model checkpoint selection
-Random agent and trained agent performance comparison
+- Double Deep Q-Network implementation.
+- Policy and target neural networks.
+- Experiential Replay for training stability.
+- Epsilon-greedy exploration strategy.
+- Training reward and moving-average visualization.
+- Training loss analysis.
+- Exploration rate monitoring.
+- Periodic policy evaluation.
+- Best-model checkpoint selection.
+- Random agent and trained agent performance comparison.
 
 ### Limitations and Future Improvements
 
