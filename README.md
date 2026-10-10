@@ -9,11 +9,12 @@ The Double Deep Q-Network (DDQN) project demonstrates the application of deep re
 The main goal is to apply and test a DDQN agent to the CartPole balancing task. Other goals include reward analysis for training, tracking training loss, examining changes in exploration rate, assessing the learned policy, and comparing the trained agent with a random-action agent.
 
 ### Technologies Used
-Programming Language: Python
-Reinforcement Learning Environment: Gymnasium
-Deep Learning Framework: PyTorch
-Numerical Computation: NumPy
-Data Visualization: Matplotlib
+
+- Programming Language: Python
+- Reinforcement Learning Environment: Gymnasium
+- Deep Learning Framework: PyTorch
+- Numerical Computation: NumPy
+- Data Visualization: Matplotlib
 
 ### Algorithm and Methodology
 
